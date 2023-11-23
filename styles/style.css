@@ -9,6 +9,9 @@ a {
 ul{
     list-style: none;
 }
+body{
+    background: rgb(188, 164, 164);
+}
 .container {
     max-width: 1140px;
     width: 100%;
@@ -125,7 +128,7 @@ ul{
     font-family: 'PR';
     font-size: 50px;
     font-weight: 400;
-    background: rgba(0, 0, 0, 0.70);
+    background: rgba(169, 7, 7, 0.7);
     padding: 16px 60px;
 }
 .header__content-text {
